@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2022-06-22 21:08:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2021-02-11 23:02:25 +0800"
@@ -1389,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2022-06-22 21:24:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-12 00:49:05 +0800"
@@ -1725,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2022-06-22 21:24:21 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2021-02-18 21:52:10 +0800"
@@ -1799,6 +1817,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2022-06-22 21:25:23 +0800",
       "minecraft:savanna_plateau": "2021-02-13 19:08:24 +0800",
       "minecraft:beach": "2021-02-11 23:06:59 +0800",
       "minecraft:river": "2021-02-11 22:48:01 +0800",
@@ -2209,5 +2228,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
